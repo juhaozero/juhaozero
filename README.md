@@ -1,3 +1,5 @@
+[![Homepage](https://img.shields.io/website?url=https://blog.juhaozero.com&up_color=orange&label=%F0%9F%8F%A0%20homepage)](https://blog.juhaozero.com/)
+
 ### Hi there 👋
 
 <!--
@@ -16,4 +18,4 @@ Here are some ideas to get you started:
 -->
 - 📦 [网页工具](app.juhaozero.com): 网页工具实现
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juhaozero&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
