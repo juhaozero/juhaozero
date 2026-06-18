@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📦 [网页工具](https://app.juhaozero.com): 网页工具实现
+- 📦 [网页工具](https://app.juhaozero.com/browser/): 网页工具实现
 
 
