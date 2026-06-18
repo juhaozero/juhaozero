@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📦 [网页工具](https://app.juhaozero.com/browser/): 网页工具实现
+- 📦 [人格面具合成表](https://app.juhaozero.com/persona): 女神异闻录人格面具合成表
 
 
